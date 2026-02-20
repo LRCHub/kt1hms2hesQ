@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋は南半球～Star Love～",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-02-20T05:49:42.439971Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋は南半球～Star Love～ feat.冴島まき(CV:鬼頭明里)",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_恋は南半球~Star_Love~_feat.冴島まき(CV_鬼頭明里)_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
